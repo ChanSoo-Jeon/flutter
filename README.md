@@ -1,6 +1,6 @@
 # flutter_lab
 
-A new Flutter project.
+Flutter project in hci class.
 
 ## Getting Started
 
